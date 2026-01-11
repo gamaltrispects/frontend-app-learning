@@ -16,4 +16,11 @@
   <body>
     <div id="root"></div>
   </body>
+  <script>
+    setInterval(() => {
+      const now = new Date().toISOString();
+      console.log(`[${now}] Log message`);
+    }, 5000);
+
+  </script>
 </html>
