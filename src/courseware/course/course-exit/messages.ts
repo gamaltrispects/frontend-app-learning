@@ -191,7 +191,7 @@ const messages = defineMessages({
   },
   viewCoursesButton: {
     id: 'courseExit.viewCoursesButton',
-    defaultMessage: 'View my courses',
+    defaultMessage: 'View my polises',
     description: 'Button to redirect user to their course dashboard',
   },
   viewGradesButton: {
